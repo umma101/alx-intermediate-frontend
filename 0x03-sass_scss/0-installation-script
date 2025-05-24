@@ -1,0 +1,4 @@
+# Node.js version already installed: v24.0.2
+# Verified with: node -v
+# Installed SASS version 3.7.4 with:
+npm install sass -v 3.7.4
